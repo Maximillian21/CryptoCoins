@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CryptoCoins</string>
+    <string name="rank">Rank:</string>
+    <string name="price_to_btc">Price to BTC:</string>
+    <string name="listed_at">Listed at:</string>
+    <string name="price">Price:</string>
+    <string name="market_cap">Market Cap:</string>
+    <string name="uuid">UUID:</string>
+    <string name="coin_name">Coin Name:</string>
+    <string name="coin_symbol">Coin Symbol:</string>
+    <string name="coin_icon_placeholder">Coin Icon Placeholder</string>
+</resources>
